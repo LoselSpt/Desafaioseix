@@ -1,6 +1,4 @@
-## Começando 🚀
-
-Bem-vindo ao mundo do Java no VS Code! Aqui está um guia rapidinho para te ajudar a começar a programar em Java usando o Visual Studio Code.
+## Desafio UA6
 
 ## Estrutura de Pastas 📂
 
@@ -14,6 +12,7 @@ Ah, e os arquivos compilados (o resultado do seu código) vão aparecer automati
 ## Gerenciando Dependências 📦
 
 A visualização `JAVA PROJECTS` no VS Code te ajuda a gerenciar as bibliotecas do seu projeto. Se precisar de ajuda com isso, tem mais detalhes [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
 
 
 
