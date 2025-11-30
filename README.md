@@ -4,8 +4,6 @@ Bem-vindo ao mundo do Java no VS Code! Aqui está um guia rapidinho para te ajud
 
 ## Estrutura de Pastas 📂
 
-O seu projeto já vem organizado com duas pastinhas principais:
-
 - `src`: É aqui que você vai guardar o seu código fonte (seus arquivos `.java`). É onde a mágica acontece! ✨
 - `lib`: Aqui ficam as bibliotecas que o seu projeto precisa para funcionar (as dependências).
 
@@ -17,4 +15,5 @@ Ah, e os arquivos compilados (o resultado do seu código) vão aparecer automati
 
 A visualização `JAVA PROJECTS` no VS Code te ajuda a gerenciar as bibliotecas do seu projeto. Se precisar de ajuda com isso, tem mais detalhes [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-Bons estudos e divirta-se codando! 💻☕
+
+
